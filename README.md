@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm a student in Borås and my journey programming journey started in 2015 when i studied game development. Now im studying Systemdevelopment in .NET C#. I love to spend time on the golf course and in the gym and when im not training im playing games om trying my best on small freetime projects.
+I'm a student in Borås and my programming journey started in 2015 when i studied game development. Now im studying Systemdevelopment in .NET C#. I love to spend time on the golf course and in the gym and when im not training im playing games om trying my best on small freetime projects.
 
 
 
