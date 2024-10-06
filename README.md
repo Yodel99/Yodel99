@@ -12,4 +12,6 @@ I'm a student in Borås and my programming journey started in 2015 when i studie
 ## 🛠 Skills
 .NET C#, Game development in Unity and small knowledge in html and css.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yodel99&langs_count=8)          
 ![](https://github.com/Yodel99/Yodel99/blob/main/racoon-pedro.gif)
